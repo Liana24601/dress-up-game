@@ -30,7 +30,7 @@ This is a fun dress-up game made for Hack Club's tailor ysws. I had a great time
 
 ## Description
 
-Lilly the Bunny is choosing an outfit for today, and she needs your help! Help her create an outfit she likes by choosing cute picks from her closet. There's a bunch of stunning possible outfit combos, and bunch of accessories, cute tops, and skirts to choose from. Have fun, and best of luck, diva!
+Lilly the Bunny is choosing an outfit for today, and she needs your help! Help her create an outfit she likes by choosing cute picks from her closet. There's a lot of stunning possible outfit combos, and a bunch of accessories, cute tops, and skirts to choose from. Have fun, and best of luck, diva!
 
 #
 
