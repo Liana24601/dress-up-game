@@ -21,7 +21,9 @@ This is a fun dress-up game made for Hack Club's tailor ysws. I had a great time
 # Play now on itch.io!
 
 <div align="center">
-  <img src="https://imgur.com/7PAFur3">
+  <img src="https://i.imgur.com/7PAFur3.png" 
+        style="width: 95%;">
+  </a>
 </div>
 
 #
