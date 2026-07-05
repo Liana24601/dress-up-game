@@ -1,0 +1,311 @@
+#container {
+   position: absolute;
+   margin:auto;
+   width: 1280px;
+   height: 1080px;
+   background-color: antiquewhite;
+}
+
+#background {
+    position: absolute;
+    width: 1080px;
+    height: 1080;
+    left: 100px;
+    right: 100px;
+    background-color: aliceblue;
+}
+
+#bunny {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/bunny.png');
+}
+
+#hair {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+}
+
+.hair1 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/bow.png');
+}
+
+.hair2 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/flower.png');
+}
+
+.hair3 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/headphones.png');
+}
+
+.hair4 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/earrings.png');
+}
+
+#necklace {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    z-index: 1000;
+}
+
+.necklace1 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/skull.png')
+}
+
+.necklace2 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/goldnecklace.png')
+}
+
+.necklace3 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/starnecklace.png');
+}
+
+.necklace4 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/silvernecklace.png');
+}
+
+#bottom {
+   position: absolute;
+   width: 1080px;
+   height: 1080px; 
+}
+
+.bottom1 {
+   position: absolute;
+   width: 1080px;
+   height: 1080px; 
+   background-image: url('../img/blackskirt.png');
+}
+
+.bottom2 {
+   position: absolute;
+   width: 1080px;
+   height: 1080px; 
+   background-image: url('../img/pinkskirt.png');
+}
+
+.bottom3 {
+   position: absolute;
+   width: 1080px;
+   height: 1080px; 
+   background-image: url('../img/jeans.png');
+}
+
+.bottom4 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/brownskirt.png');
+}
+
+#top {
+   position: absolute;
+   width: 1080px;
+   height: 1080px;
+   z-index: 500;
+}
+
+.top1 {
+   position: absolute;
+   width: 1080px;
+   height: 1080px;
+   background-image: url('../img/blacktop.png');
+}
+
+.top2 {
+   position: absolute;
+   width: 1080px;
+   height: 1080px;
+   background-image: url('../img/redtop.png');
+}
+
+.top3 {
+   position: absolute;
+   width: 1080px;
+   height: 1080px;
+   background-image: url('../img/y2ktop.png');
+}
+
+.top4 {
+    position: absolute;
+    width: 1080px;
+    height: 1080px;
+    background-image: url('../img/greenshirt.png');;
+}
+
+#nexthair {
+    position: absolute;
+    right: 190px;
+    top: 230px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#backhair {
+    position: absolute;
+    right: 1050px;
+    top: 230px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#nexttop {
+    position: absolute;
+    right: 190px;
+    top: 550px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#backtop {
+    position: absolute;
+    right: 1050px;
+    top: 550px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#nextbottom {
+    position: absolute;
+    right: 190px;
+    top: 800px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#backbottom {
+    position: absolute;
+    right: 1050px;
+    top: 800px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#nextnecklace {
+    position: absolute;
+    right: 190px;
+    top: 400px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#backnecklace {
+    position: absolute;
+    right: 1050px;
+    top: 400px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #b3d3f2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#randombutton {
+    position: absolute;
+    right: 150px;
+    top: 30px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #8dbff2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#resetbutton {
+    position: absolute;
+    right: 1040px;
+    top: 30px;
+    border-radius: 28px;
+    z-index: 2000;
+    font-size: medium;
+    padding: 16px;
+    text-align: center;
+    border: none;
+    background-color: #8dbff2;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
