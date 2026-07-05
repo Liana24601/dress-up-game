@@ -258,8 +258,3 @@ function backtop()
             state.k = 3;
         }
 }
-
-/* Lilly the Bunny is choosing an outfit for today, and she needs your help!
-
-Art Credit
-- All artistic assets such as the outfit items, mannequin base, button designs, and backgrounds were created by me. */
