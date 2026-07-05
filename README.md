@@ -18,6 +18,16 @@ This is a fun dress-up game made for Hack Club's tailor ysws. I had a great time
 
 #
 
+# Play now on itch.io!
+
+<div align="center">
+  <img src="https://imgur.com/a/jeLnZsY" 
+        style="width: 95%;">
+  </a>
+</div>
+
+#
+
 ## Description
 
 Lilly the Bunny is choosing an outfit for today, and she needs your help! Help her create an outfit she likes by choosing cute picks from her closet. There's a bunch of stunning possible outfit combos, and bunch of accessories, cute tops, and skirts to choose from. Have fun, and best of luck, diva!
